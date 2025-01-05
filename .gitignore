@@ -1,0 +1,7 @@
+#gitignore
+
+# Ignorar un archivo llamado privado.txt
+privado.txt
+
+# Ignorar un directorio llamado privada
+privada/
